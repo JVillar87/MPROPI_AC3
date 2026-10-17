@@ -1,0 +1,24 @@
+==================
+INFORME DE VENDES
+==================
+Data de generació: 2026-10-17 14:27:53
+1. COBERTURA DE DADES:
+Total llegits: 19
+Total vàlids: 16
+Total rebutjats: 3
+Incidències documentades: 5
+2. INDICADORS GLOBALS:
+Total unitats venudes: 134
+Facturació total: 966.60 €
+Preu unitari mitjà: 7.21 €
+Import mitjà per línea: 60.41 €
+3. DESGLOSSAMENT PER CATEGORIA:
+Categoria: Papereria, Facturació: 301.00 €
+Categoria: Accessoris, Facturació: 634.80 €
+Categoria: Electrònica, Facturació: 997.40 €
+
+4. DESGLOSSAMENT PER CIUTAT:
+Ciutat: Barcelona, Facturació: 1102.60 €
+Ciutat: Girona, Facturació: 378.00 €
+Ciutat: Tarragona, Facturació: 402.60 €
+Ciutat: Lleida, Facturació: 50.00 €
